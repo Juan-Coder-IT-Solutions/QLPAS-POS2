@@ -8,7 +8,7 @@ define('DEVELOPMENT', true);
 define("HOST", "localhost");
 define("USER", "root");
 define("PASSWORD", "");
-define("DBNAME", "jcis_db");
+define("DBNAME", "jcis_db2");
 
 // define("HOST", "localhost");
 // define("USER", "u981310152_root_pos");
